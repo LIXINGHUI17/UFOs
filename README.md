@@ -16,4 +16,4 @@
 
 - The summary addresses two additional recommendations for further development.
     - 1. When opening the website, we don't want all data showing, we could re-do the code to fix it.
-    - 2. there are too many words for the paragraph, this project is designed to gather data. therefore, data should be the most important. When opeing the website, the first things we need to look that is data.
+    - 2. there are too many words for the paragraph, this project is designed to gather data. therefore, data should be the most important. When opeing the website, the first thing we need to look that is data.
