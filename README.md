@@ -5,7 +5,7 @@
 - Using Javascript, bootstrap to make a HTML with dashboard that allaw users to pull up information from data.
 
 ## Results
-### When entering the website, we will see the beautiful picutre with heading. When scrolling down, we will begin to see all the data and filters that we have (date, city, state, country & shape)
+- When entering the website, we will see the beautiful picutre with heading. When scrolling down, we will begin to see all the data and filters that we have (date, city, state, country & shape)
 ![1](static/images/1.png)
 ![2](static/images/2.png)
 
